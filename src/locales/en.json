@@ -1,0 +1,12 @@
+{
+    "home": "Home",
+    "vote": "Vote",
+    "results": "Results",
+    "candidates": "Candidates",
+    "ballots": "Ballots",
+    "voter_register": "Voter Register",
+    "admin": "Admin",
+    "login": "Login",
+    "logout": "Logout",
+    "search_placeholder": "Search..."
+}
